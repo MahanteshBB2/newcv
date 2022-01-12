@@ -7,6 +7,8 @@ body {
 .top-container {
   background-color: #b8e4f0;
   margin: 0px;
+  height: 100%;
+  width: 100%;
 }
 .middle-container {
   margin: 100px 0;
