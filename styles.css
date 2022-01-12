@@ -1,14 +1,12 @@
 body {
   color: #40514e;
-  margin: 0px auto 0px auto;
+  margin: 0px;
+  height: 100%;
   text-align: center;
   font-family: "Merriweather", serif;
 }
 .top-container {
   background-color: #b8e4f0;
-  margin: 0px;
-  width: 100vw;
-  height: 93vh;
 }
 .middle-container {
   margin: 100px 0;
