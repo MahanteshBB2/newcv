@@ -6,7 +6,7 @@ body {
 }
 .top-container {
   background-color: #b8e4f0;
-  background-size: cover;
+  overflow: auto;
 }
 .middle-container {
   margin: 100px 0;
