@@ -6,6 +6,7 @@ body {
   font-family: "Merriweather", serif;
 }
 .top-container {
+  margin: 0px
   background-color: #b8e4f0;
   background-size: cover;
 }
