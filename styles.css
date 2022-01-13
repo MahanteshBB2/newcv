@@ -1,5 +1,5 @@
 body {
-  background-color: #40514e;
+  color: #40514e;
   margin: 0px;
   width:auto;
   text-align: center;
@@ -7,7 +7,7 @@ body {
 }
 .top-container {
   margin: 0px
-  color: #A8ECE7;
+  background-color: #b8e4f0;
   background-size: cover;
 }
 .middle-container {
